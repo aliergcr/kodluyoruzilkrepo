@@ -20,7 +20,7 @@ Linux için :
 
 ```
 cd kodluyoruzilkrepo
-ode .
+code .
 ```
 
 ## Contributing
